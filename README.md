@@ -1,4 +1,4 @@
-# sqlchemistory 1.0
+# sqlchemistry 1.0
  This application will allow you to use databases through the terminal
 
 ## How to use it ?
