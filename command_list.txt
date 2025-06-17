@@ -1,0 +1,20 @@
+Db - create database
+Sn - set database
+Tc - create table
+In - insert data into table
+U - update data
+Se - select data (where)
+Al - select data (all from table)
+Ds - delete data from table (where)
+Md - delete all from table
+Dy - delete table
+
+Cs - change session (current table)
+
+Cn - output table's columns
+Te - output every columns' name
+Tm - output current session database and table
+
+Cl - clear terminal
+Er - exit
+Eu - interrupt any command
