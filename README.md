@@ -1,15 +1,16 @@
-# sqlchemistory
+# sqlchemistory 1.0
  This application will allow you to use databases through the terminal
 
-# How to use it ?
+## How to use it ?
 
+Install req.txt and run main.py
 In directory you can open file 'command_list.txt', which contains full list of command
 
-# How does it work ?
+## How does it work ?
 
 In the 'app folder', your command is compiled into SQL code and 'mods' execute this (sqlite3, sqlalchemy)
 
-# What will be in version 2.0?
+## What will be in version 2.0?
 
 Free
 1. Ability to manage yours databases by your own telegram private bot
