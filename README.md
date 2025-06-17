@@ -3,7 +3,7 @@
 
 ## How to use it ?
 
-Install req.txt and run main.py
+Install req.txt and run main.py.
 In directory you can open file 'command_list.txt', which contains full list of command
 
 ## How does it work ?
